@@ -1,0 +1,28 @@
+{
+  "name": "rahmah-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "RAHMAH WhatsApp AI Multi-Function Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "WhatsApp",
+    "Bot",
+    "AI",
+    "Baileys"
+  ],
+  "author": "Rahmahel",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.4.0",
+    "axios": "^1.5.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.2.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.7",
+    "openai": "^4.22.1"
+  }
+}
