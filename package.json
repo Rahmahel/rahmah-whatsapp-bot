@@ -1,4 +1,7 @@
-{
+"main": "index.js",
+"scripts": {
+  "start": "node index.js"
+}
   "name": "rahmah-whatsapp-bot",
   "version": "1.0.0",
   "description": "RAHMAH WhatsApp AI Multi-Function Bot",
